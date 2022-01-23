@@ -1,4 +1,14 @@
-title {
+ul:first-child {
   font-weight: bold;
-  font-size: 16px;
+  font-size: 20px;
+  color: orchid;
+}
+
+a:link {
+  color: orangered;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
 }
